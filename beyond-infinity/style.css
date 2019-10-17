@@ -20,7 +20,6 @@ h5 {
     width: 80%;
     position: relative;
     margin: inherit;
- 
 }
 
 .card-body {
@@ -49,7 +48,6 @@ h5 {
 
 .card-img-top {
     border-radius: 0 !important;
-
 }
 
 #inner {
@@ -75,7 +73,6 @@ h5 {
   }
 
   .card:hover {
- 
       opacity: 1;
       z-index: 2;
       transform-origin: center;
