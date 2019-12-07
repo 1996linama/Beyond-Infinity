@@ -10,7 +10,7 @@ The project name "Beyond Infinity" came from inspiration by Buzz Lightyear from 
 For more project description, visit <a href="http://lina-ma.com/beyondinfinity.html">my portfolio</a>.
 
 ## Demo
-Click <a href="https://github.com/1996linama/Beyond-Infinity">here</a> to visit the website.
+Click <a href="https://1996linama.github.io/Beyond-Infinity/">here</a> to visit the website.
 
 ## Project Status
 Completed.
